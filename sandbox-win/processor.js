@@ -1,0 +1,1 @@
+module.exports = async (job) => job.data.n + 1;
